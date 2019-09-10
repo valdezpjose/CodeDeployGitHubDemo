@@ -1,0 +1,12 @@
+{
+  "p2DS": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "",
+    "database": "p2",
+    "password": "********",
+    "name": "p2DS",
+    "user": "anupam",
+    "connector": "mysql"
+  }
+}

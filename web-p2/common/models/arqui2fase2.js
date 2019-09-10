@@ -1,0 +1,1 @@
+'use strict';module.exports=function(arqui2fase2) {};
